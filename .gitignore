@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Education_System/.vs/Education_System/CopilotIndices/17.14.734.62261/CodeChunks.db-shm
+/Education_System/.vs/Education_System/CopilotIndices/17.14.734.62261/CodeChunks.db-wal
+/Education_System/.vs/Education_System/CopilotIndices/17.14.734.62261/SemanticSymbols.db-shm
+/Education_System/.vs/Education_System/CopilotIndices/17.14.734.62261/SemanticSymbols.db-wal

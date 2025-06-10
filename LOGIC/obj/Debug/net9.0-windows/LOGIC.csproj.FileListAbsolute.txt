@@ -1,0 +1,15 @@
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\bin\Debug\net9.0-windows\LOGIC.deps.json
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\bin\Debug\net9.0-windows\LOGIC.dll
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\bin\Debug\net9.0-windows\LOGIC.pdb
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\bin\Debug\net9.0-windows\DATA.dll
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\bin\Debug\net9.0-windows\DATA.pdb
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\LOGIC.csproj.AssemblyReference.cache
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\LOGIC.AssemblyInfoInputs.cache
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\LOGIC.AssemblyInfo.cs
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\LOGIC.csproj.CoreCompileInputs.cache
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\LOGIC.csproj.Up2Date
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\LOGIC.dll
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\refint\LOGIC.dll
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\LOGIC.pdb
+C:\Users\artur\Programming\source\PROYECTO_DESTINADOS_A_GITHUB\LOGIC\obj\Debug\net9.0-windows\ref\LOGIC.dll

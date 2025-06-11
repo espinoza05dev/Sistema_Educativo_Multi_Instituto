@@ -3,10 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\dtos\\tipoinstitutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -48,32 +45,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioDto.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\UsuarioDto.cs",
-              "RelativeDocumentMoniker": "..\\LOGIC\\DTOs\\UsuarioDto.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\UsuarioDto.cs",
-              "RelativeToolTip": "..\\LOGIC\\DTOs\\UsuarioDto.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwEQAAAAFAAAAAAAAAA==",
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\LOGIC\\DTOs\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\ResponseDTO.cs",
+              "RelativeToolTip": "..\\LOGIC\\DTOs\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T00:18:44.096Z",
+              "WhenOpened": "2025-06-11T00:31:48.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TipoInstitutoDto.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\TipoInstitutoDto.cs",
-              "RelativeDocumentMoniker": "..\\LOGIC\\DTOs\\TipoInstitutoDto.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\TipoInstitutoDto.cs",
-              "RelativeToolTip": "..\\LOGIC\\DTOs\\TipoInstitutoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T00:18:24.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IRepository.cs",
@@ -86,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -98,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
@@ -110,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",

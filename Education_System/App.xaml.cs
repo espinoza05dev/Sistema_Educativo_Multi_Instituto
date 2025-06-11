@@ -1,8 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System.Windows;
-using DATA.Data;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Education_System
 {
@@ -22,13 +19,7 @@ namespace Education_System
 
         private void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<SistemaEducativoContext>(options =>
-                options.UseSqlServer(connectionString));
-
-            services.AddScoped<>();
-
             services.AddTransient<Views.MainWindow>();
-            
         }
     }
 }

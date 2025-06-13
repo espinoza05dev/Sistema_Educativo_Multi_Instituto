@@ -36,14 +36,15 @@ namespace LOGIC.Services
             return estudiante != null ? MapToDto(estudiante): null;
         }
 
-        public async Task<IEnumerable<EstudianteDto>> GetByCodigoEstudianteAsync(string codigoEstudiante)
+        public async Task<EstudianteDto> GetByCodigoEstudianteAsync(string codigoEstudiante)
         {
-            if (string.IsNullOrWhiteSpace(codigoEstudiante)) return await GetAllAsync();
-            var estudiantes = await _context.Estudiantes
+            if (string.IsNullOrWhiteSpace(codigoEstudiante)) return null;
+
+            var estudiante = await _context.Estudiantes
                 .Include(s => s.Inscripciones)
-                .Where(s => s.CodigoEstudiante == codigoEstudiante && s.Activo)
-                .ToListAsync();
-            return estudiantes.Select(MapToDto).ToList();
+                .FirstOrDefaultAsync(s => s.CodigoEstudiante == codigoEstudiante && s.Activo);
+
+            return estudiante != null ? MapToDto(estudiante) : null;
         }
 
         public async Task<IEnumerable<EstudianteDto>> GetByPersonaIdAsync(int personaId)

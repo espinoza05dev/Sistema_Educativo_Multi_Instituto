@@ -25,7 +25,7 @@ public partial class Estudiante
     [StringLength(500)]
     public string? Observaciones { get; set; }
 
-    public bool? Activo { get; set; }
+    public bool Activo { get; set; }
 
     public DateTime? FechaCreacion { get; set; }
 

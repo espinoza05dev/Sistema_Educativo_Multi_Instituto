@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 144,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,19 @@
               "RelativeToolTip": "..\\LOGIC\\DTOs\\EstudianteDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:30:15.139Z",
+              "WhenOpened": "2025-06-11T04:30:15.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IEstudianteService.cs",
+              "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IEstudianteService.cs",
+              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IEstudianteService.cs",
+              "RelativeToolTip": "..\\LOGIC\\Interfaces\\IEstudianteService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:16:53.05Z",
               "EditorCaption": ""
             },
             {
@@ -69,22 +81,9 @@
               "RelativeDocumentMoniker": "..\\LOGIC\\Services\\StudentService.cs",
               "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Services\\StudentService.cs",
               "RelativeToolTip": "..\\LOGIC\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T04:16:10.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEstudianteService.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IEstudianteService.cs",
-              "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IEstudianteService.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IEstudianteService.cs",
-              "RelativeToolTip": "..\\LOGIC\\Interfaces\\IEstudianteService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAwAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:16:53.05Z",
               "EditorCaption": ""
             }
           ]

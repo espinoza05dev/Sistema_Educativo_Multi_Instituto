@@ -9,10 +9,10 @@
       "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\interfaces\\iestudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D37BEC19-E35E-4E71-BBA6-E2EEC788C391}|..\\DATA\\DATA.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\data\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\dtos\\estudiantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\dtos\\estudiantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D37BEC19-E35E-4E71-BBA6-E2EEC788C391}|..\\DATA\\DATA.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\data\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Estudiante.cs",
               "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\DATA\\Models\\Estudiante.cs",
               "RelativeDocumentMoniker": "..\\DATA\\Models\\Estudiante.cs",
@@ -46,11 +46,12 @@
               "RelativeToolTip": "..\\DATA\\Models\\Estudiante.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:24:39.309Z"
+              "WhenOpened": "2025-06-11T04:24:39.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EstudianteDto.cs",
               "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\EstudianteDto.cs",
               "RelativeDocumentMoniker": "..\\LOGIC\\DTOs\\EstudianteDto.cs",
@@ -58,7 +59,8 @@
               "RelativeToolTip": "..\\LOGIC\\DTOs\\EstudianteDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:30:15.139Z"
+              "WhenOpened": "2025-06-11T04:30:15.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,7 +70,7 @@
               "RelativeDocumentMoniker": "..\\LOGIC\\Services\\StudentService.cs",
               "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Services\\StudentService.cs",
               "RelativeToolTip": "..\\LOGIC\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T04:16:10.128Z",
               "EditorCaption": ""
@@ -81,9 +83,10 @@
               "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IEstudianteService.cs",
               "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IEstudianteService.cs",
               "RelativeToolTip": "..\\LOGIC\\Interfaces\\IEstudianteService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:16:53.05Z"
+              "WhenOpened": "2025-06-11T04:16:53.05Z",
+              "EditorCaption": ""
             }
           ]
         }

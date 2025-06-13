@@ -3,31 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\interfaces\\icalificacioneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\interfaces\\iaulaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\interfaces\\iestudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\interfaces\\iauditoriumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\dtos\\estudiantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\interfaces\\iasignacionesprofesoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CB27E00-7112-4585-A506-2283693FF15A}|..\\LOGIC\\LOGIC.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\logic\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B235E47-95A3-4C31-B333-47AC93E672A0}|Education_System.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\education_system\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5B235E47-95A3-4C31-B333-47AC93E672A0}|Education_System.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B235E47-95A3-4C31-B333-47AC93E672A0}|Education_System.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\education_system\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B235E47-95A3-4C31-B333-47AC93E672A0}|Education_System.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B235E47-95A3-4C31-B333-47AC93E672A0}|Education_System.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\education_system\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5B235E47-95A3-4C31-B333-47AC93E672A0}|Education_System.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D37BEC19-E35E-4E71-BBA6-E2EEC788C391}|..\\DATA\\DATA.csproj|c:\\users\\artur\\programming\\source\\proyecto_destinados_a_github\\sistema education multilang\\data\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 144,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,104 +38,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ICalificacioneService.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\ICalificacioneService.cs",
-              "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\ICalificacioneService.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\ICalificacioneService.cs",
-              "RelativeToolTip": "..\\LOGIC\\Interfaces\\ICalificacioneService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\DATA\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "..\\DATA\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\DATA\\Models\\Estudiante.cs",
+              "RelativeToolTip": "..\\DATA\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:00:29.511Z",
+              "WhenOpened": "2025-06-11T04:24:39.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudianteDto.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\EstudianteDto.cs",
+              "RelativeDocumentMoniker": "..\\LOGIC\\DTOs\\EstudianteDto.cs",
+              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\DTOs\\EstudianteDto.cs",
+              "RelativeToolTip": "..\\LOGIC\\DTOs\\EstudianteDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:30:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\LOGIC\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\LOGIC\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:16:10.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IAulaService.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IAulaService.cs",
-              "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IAulaService.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IAulaService.cs",
-              "RelativeToolTip": "..\\LOGIC\\Interfaces\\IAulaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Title": "IEstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IEstudianteService.cs",
+              "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IEstudianteService.cs",
+              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IEstudianteService.cs",
+              "RelativeToolTip": "..\\LOGIC\\Interfaces\\IEstudianteService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:00:13.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAuditoriumService.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IAuditoriumService.cs",
-              "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IAuditoriumService.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IAuditoriumService.cs",
-              "RelativeToolTip": "..\\LOGIC\\Interfaces\\IAuditoriumService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:00:00.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAsignacionesProfesoreService.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IAsignacionesProfesoreService.cs",
-              "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IAsignacionesProfesoreService.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IAsignacionesProfesoreService.cs",
-              "RelativeToolTip": "..\\LOGIC\\Interfaces\\IAsignacionesProfesoreService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T03:59:40.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\LOGIC\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\LOGIC\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "..\\LOGIC\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T23:01:35.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-10T23:00:31.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-10T05:20:56.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\artur\\Programming\\source\\PROYECTO_DESTINADOS_A_GITHUB\\Sistema education multilang\\Education_System\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T05:01:27.244Z",
+              "WhenOpened": "2025-06-11T04:16:53.05Z",
               "EditorCaption": ""
             }
           ]
